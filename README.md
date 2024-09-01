@@ -9,6 +9,12 @@ Este é um projeto simples de calculadora desenvolvida em Python usando a biblio
 - **Botão de Limpar (C)**: Limpa a entrada atual.
 - **Entrada de Texto**: Campo para exibir a expressão e o resultado.
 
+## Imagens
+
+Veja a interface gráfica da calculadora:
+
+![Interface da Calculadora](imagens/calculadora.jpeg)
+
 ## Como Executar
 
 1. Certifique-se de ter o Python instalado no seu sistema. Você pode baixá-lo em [python.org](https://www.python.org/).
