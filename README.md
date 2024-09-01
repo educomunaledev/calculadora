@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Calculadora em Python
 
 Este é um projeto simples de calculadora desenvolvida em Python usando a biblioteca Tkinter para criar uma interface gráfica. A calculadora suporta operações básicas como adição, subtração, multiplicação e divisão.
@@ -56,6 +55,4 @@ Sinta-se à vontade para contribuir com melhorias ou correções. Se encontrar a
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-=======
-# calculadora
->>>>>>> 15fa2a1b49dc28ae688755e51c9ec7515511a001
+
